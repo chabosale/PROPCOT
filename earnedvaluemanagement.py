@@ -1,5 +1,5 @@
 # 
-# Copyright (C) 2020 Erhan Pişirir & Barbaros Yet
+# Copyright (C) 2020
 #
 # This file is a part of PROPCOT / OPKA
 # 
